@@ -32,7 +32,7 @@ Because AI models exceed GitHub's file size limits, you must download the offlin
 
 1. Visit the Hugging Face repository: **afi-gemma4-e2b-merged-gguf**.
 2. Download the required model file (e.g., the `.gguf` or `.bin` file).
-3. Move the downloaded model file directly into the `resources/models` folder inside your cloned project directory.
+3. Move the downloaded model file directly into the `/examples/llama.cpp/examples/llama.swiftui/llama.swift/Resources/models` folder inside your cloned project directory.
 
 ### 3. Build the XCFramework
 
